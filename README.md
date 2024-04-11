@@ -7,4 +7,4 @@ I'm Renuka Uraingarm and you can call 'Ray'.
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reply00889&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reply00889&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reply00889&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
